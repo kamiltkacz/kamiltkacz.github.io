@@ -1921,7 +1921,7 @@ input, select, textarea {
 			text-align: left;
 			padding: 0.5em 1em 0.5em 1em;
 			color: #fff;
-			background: #222729 url("images/overlay.png");
+			background: #222729 url("overlay.png");
 		}
 
 		table thead {
@@ -2246,7 +2246,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/nasa.jpg");
 			}
 
 			#main > section.two {
