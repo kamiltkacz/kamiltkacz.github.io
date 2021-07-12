@@ -269,6 +269,8 @@ input, select, textarea {
 	text-align: left;
   }
 
+
+
   /* The Close Button */
   .close {
 	color: #aaa;
@@ -277,12 +279,58 @@ input, select, textarea {
 	font-weight: bold;
   }
 
+  .close_2 {
+	color: #aaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+  }
+
+  .close_3 {
+	color: #aaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+  }
+
+  .close_4 {
+	color: #aaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+  }
+
+
+
   .close:hover,
   .close:focus {
 	color: black;
 	text-decoration: none;
 	cursor: pointer;
   }
+
+  .close_2:hover,
+  .close_2:focus {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+  }
+
+  .close_3:hover,
+  .close_3:focus {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+  }
+
+  .close_4:hover,
+  .close_4:focus {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+  }
+
+
 
 /* Container */
 
